@@ -1,4 +1,4 @@
-package com.driver.model.response;
+package com.driver.driver.model.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

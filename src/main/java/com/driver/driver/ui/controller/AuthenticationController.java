@@ -1,4 +1,4 @@
-package com.driver.ui.controller;
+package com.driver.driver.ui.controller;
 
 import com.driver.model.response.UserResponse;
 import com.driver.shared.dto.UserDto;

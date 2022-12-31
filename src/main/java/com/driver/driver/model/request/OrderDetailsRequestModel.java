@@ -1,4 +1,4 @@
-package com.driver.model.request;
+package com.driver.driver.model.request;
 
 import lombok.*;
 

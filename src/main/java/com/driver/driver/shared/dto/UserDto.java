@@ -1,4 +1,4 @@
-package com.driver.shared.dto;
+package com.driver.driver.shared.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

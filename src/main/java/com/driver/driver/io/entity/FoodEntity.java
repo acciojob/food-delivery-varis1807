@@ -1,4 +1,4 @@
-package com.driver.io.entity;
+package com.driver.driver.io.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

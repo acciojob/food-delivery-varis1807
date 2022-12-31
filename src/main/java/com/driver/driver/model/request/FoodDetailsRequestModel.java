@@ -1,4 +1,4 @@
-package com.driver.model.request;
+package com.driver.driver.model.request;
 
 import lombok.*;
 
@@ -6,7 +6,7 @@ import lombok.*;
 @NoArgsConstructor
 @Builder
 public class FoodDetailsRequestModel {
-
+     //
 	private String foodName;
 	private String foodCategory;
 	private float foodPrice;
